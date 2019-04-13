@@ -1,6 +1,6 @@
 {
   "name": "hasprotocol",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Returns true/false if string starts protocol such as http://",
   "main": "index.js",
   "scripts": {
