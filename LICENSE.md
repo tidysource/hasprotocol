@@ -2,7 +2,7 @@ Copyright Tidy Source (Daniel Cobo) and other contributors, https://www.tidysour
 
 This software may consist of voluntary contributions made by many
 individuals. For exact contribution history, see the revision history
-available at https://github.com/danielcobo/hasprotocol
+available at https://github.com/tidysource/hasprotocol
 
 The following license applies to all parts of this software except as
 documented below:
